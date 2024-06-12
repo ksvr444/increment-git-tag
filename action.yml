@@ -8,7 +8,7 @@ inputs:
     default: patch
 outputs:
   new-version:
-    description: Incremented version based on the input
+    description: Incremented version based on the inpu
 runs:
   using: node12
   main: action/index.js
